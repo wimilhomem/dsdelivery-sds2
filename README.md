@@ -1,3 +1,2 @@
 # dsdelivery-sds2
-
-Backend -> Primeira etapa do projeto da semana DevSuperior
+Projeto da semana DevSuperior
